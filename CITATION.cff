@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "TRACE_ABM_model1"
+authors:
+  - family-names: "Leao"
+    given-names: "Simone Z"
+version: "1.0.0"
+doi: "10.5281/zenodo.21813463"
+date-released: "2026-08-06"
