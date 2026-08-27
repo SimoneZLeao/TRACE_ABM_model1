@@ -52,6 +52,10 @@ You can explore how different career trajectories emerge from repeated interacti
 </a>
 </p>
 
+<p>
+Follow the user guide for model use. Note that in the online version, users can run the model, visualise the simulation, and test results when parameters are changed. However, the web environment does not allow simulation outputs to be saved for future analysis.
+</p>
+
 <h2>Post-Modelling data analysis</h2>
 
 <p>
@@ -59,9 +63,6 @@ Analysis of simulation outputs may require additional software packages (e.g., R
 </p>
 
 <p>
-The Scripts developed in this study for trajectory identification (sequence analysis and optimal matching) in R using the TraMine package are available here. Download the file <code>TrajectoryAnalysis_Scripts_R_TraMine.zip</code>code> and open them in R Studio. Sample results of the analysis are provided too.
+The Scripts developed in this study for trajectory identification (sequence analysis and optimal matching) in R using the TraMine package are available here. Download the file <code>TrajectoryAnalysis_Scripts_R_TraMine.zip</code> and open them in R Studio. Sample results of the analysis are provided too.
 </p>
 
-<p>
-Follow the user guide for model use. Note that in this version, users can run the model, visualise the simulation, and test results when parameters are changed. However, the web environment does not allow simulation outputs to be saved for future analysis.
-</p>
