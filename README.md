@@ -7,7 +7,7 @@ Developed by Dr Simone Z Leao, School of Creative Arts, Design & Humanities, Ade
 </p>
 
 <p>
-DOI: <a href="https://doi.org/10.5281/zenodo.22123667"></a>
+DOI: <a href="https://doi.org/10.5281/zenodo.22123667">https://doi.org/10.5281/zenodo.22123667</a>
 </p>
 
 <h1>ABOUT TRACE</h1>
