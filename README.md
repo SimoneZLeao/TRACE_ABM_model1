@@ -1,5 +1,5 @@
 <p>
-<b>Baseline Model v1.0</b> released on 06 Aug 2026.
+<b>Baseline Model v1.0</b> released on 27 Aug 2026.
 </p>
 
 <p>
@@ -7,7 +7,7 @@ Developed by Dr Simone Z Leao, School of Creative Arts, Design & Humanities, Ade
 </p>
 
 <p>
-DOI: <a href="https://doi.org/10.5281/zenodo.21813463">10.5281/zenodo.21813463</a>
+DOI: <a href="https://doi.org/</a>
 </p>
 
 <h1>ABOUT TRACE</h1>
