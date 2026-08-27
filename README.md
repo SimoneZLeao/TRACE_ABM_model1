@@ -33,15 +33,7 @@ TRACE requires the following software:
 </ul>
 
 <p>
-To run TRACE, download and install NetLogo, open the <code>TRACE_V01.nlogo</code> model file, and follow the user guide provided for model use.
-</p>
-
-<p>
-Analysis of simulation outputs may require additional software packages (e.g., R or Python), depending on the analytical approach adopted.
-</p>
-
-<p>
-The Scripts developed in this study for trajectory identification (sequence analysis and optimal matching) in R using the TraMine package are available here. Sample results of the analysis are provided.
+To run TRACE, download and install NetLogo, open the <code>TRACE_model_v1.0_BASELINE.nlogox</code> model file, and follow the user guide provided for model use.
 </p>
 
 <p>
@@ -58,6 +50,14 @@ You can explore how different career trajectories emerge from repeated interacti
 <a href="https://netlogoweb.org/launch#https://raw.githubusercontent.com/SimoneZLeao/TRACE_ABM_model1/main/TRACE_model_v1.0_BASELINE_WEB.nlogox">
 <b>Run TRACE online</b>
 </a>
+</p>
+
+<p>
+Analysis of simulation outputs may require additional software packages (e.g., R or Python), depending on the analytical approach adopted.
+</p>
+
+<p>
+The Scripts developed in this study for trajectory identification (sequence analysis and optimal matching) in R using the TraMine package are available here. Sample results of the analysis are provided.
 </p>
 
 <p>
