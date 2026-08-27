@@ -59,7 +59,7 @@ Analysis of simulation outputs may require additional software packages (e.g., R
 </p>
 
 <p>
-The Scripts developed in this study for trajectory identification (sequence analysis and optimal matching) in R using the TraMine package are available here. Sample results of the analysis are provided.
+The Scripts developed in this study for trajectory identification (sequence analysis and optimal matching) in R using the TraMine package are available here. Download the file <code>TrajectoryAnalysis_Scripts_R_TraMine.zip</code>code> and open them in R Studio. Sample results of the analysis are provided too.
 </p>
 
 <p>
