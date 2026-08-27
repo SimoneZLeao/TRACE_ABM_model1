@@ -41,6 +41,10 @@ Analysis of simulation outputs may require additional software packages (e.g., R
 </p>
 
 <p>
+The Scripts developed in this study for trajectory identification (sequence analysis and optimal matching) in R using the TraMine package are available here. Sample results of the analysis are provided.
+</p>
+
+<p>
 The Model User Guide and sample model results data are provided with the model.
 </p>
 
@@ -51,7 +55,7 @@ You can explore how different career trajectories emerge from repeated interacti
 </p>
 
 <p>
-<a href="https://netlogoweb.org/launch#https://raw.githubusercontent.com/SimoneZLeao/TRACE_ABM_model1/refs/heads/main/TRACE_model_v1.0_NetLogoWeb.nlogox">
+<a href="https://netlogoweb.org/launch#https://raw.githubusercontent.com/SimoneZLeao/TRACE_ABM_model1/main/TRACE_model_v1.0_BASELINE_WEB.nlogox">
 <b>Run TRACE online</b>
 </a>
 </p>
