@@ -52,6 +52,8 @@ You can explore how different career trajectories emerge from repeated interacti
 </a>
 </p>
 
+<h2>Post-Modelling data analysis</h2>
+
 <p>
 Analysis of simulation outputs may require additional software packages (e.g., R or Python), depending on the analytical approach adopted.
 </p>
